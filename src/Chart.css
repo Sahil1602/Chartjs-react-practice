@@ -1,0 +1,16 @@
+.percentPopulation h4{
+    margin: 0;
+    line-height: 25px;
+    color: lightcoral;
+}
+
+.chart{
+    position: relative;
+}
+
+.percentPopulation{
+    position: absolute;
+    top: 30vh;
+    left: 40%;
+
+}
